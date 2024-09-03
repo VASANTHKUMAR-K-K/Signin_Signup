@@ -1,0 +1,20 @@
+
+
+----------------------------------
+DAY - 4
+
+PRODUCT MODEL
+MULTER MIDDLEWARE
+  CONTROLLER
+      CREATE PRODUCT
+   ROUTE
+    /PRODUCT/NEW
+    STATIC
+       INDEX.JS/UPLOADS
+       
+ ------------------------------------------------
+       DAY 5
+
+       FETCH ALL PRODUCT
+       FETCH SINGLE PRODUCT
+       DELETE PRODUCT
